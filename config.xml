@@ -6,7 +6,7 @@
 
     <name>JQ</name>
     <description>apka jQuery Mobile</description>
-    <author 
+    <author> 
 		Konrad
 	</author>
 	<platform name="android" />
